@@ -1,0 +1,48 @@
+body {
+  background-color: #3CA2E0;     
+}
+.container {
+  width: 40%;
+  height: 70%;
+  margin: 100px auto;
+  padding-left: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: white;
+  border-radius: 6px 
+}
+
+input {
+  display: block;
+  border: none;
+  border-bottom: 2px solid ;
+  text-transform: capitalize;
+  border-color: #B0B4BD;
+  padding:5px 40px;
+}
+
+.button {
+  padding: 8px;
+  text-transform: capitalize;
+  background-color: #FF3264;
+  border:none;
+  border-radius: 20px;
+  width: 45%;
+  color: #ED90B2;
+  margin-left: 25%;
+  margin-top: 4%;
+  font-weight: bold;
+  font-size: 15px;
+}
+.logo {
+  margin-left: 40%;
+  width: 16%;
+}
+.forminput {
+  display: flex;
+  margin-left: 25%;
+  margin-top: 20px;
+  margin-bottom: 25px; 
+  color: rgb(171,171,171);
+}
+
